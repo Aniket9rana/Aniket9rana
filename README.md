@@ -5,7 +5,7 @@ Username: Aniket9rana
 
 # 👋 Hello Coders, I'm **Aniket Rana**
 
-🎯 **Full Stack Developer | Motion Graphics Designer | Video Editor**  
+🎯 **Full Stack Developer | Motion Graphics Designer | Video Editor | Data Scientist**  
 📍 Bengaluru, Karnataka, India  
 
 ---
