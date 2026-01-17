@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 # <img alt="Static Badge" src="https://img.shields.io/badge/Hello,_Coders👋🏻-black?logo=shadcnui" height="60px">
 
 ## <img alt="Static Badge" src="https://img.shields.io/badge/About_Me-000?logo=katana" height="40px" >
-Hi, I’m **The Parvez**, and I’m super excited to Introduce myself! 🎉
+Hi, I’m Aniket Rana, and I’m super excited to Introduce myself! 🎉
 I am Proud of me because I am a **Certified Curious Coder**.
 I’m currently a **1<sup>st</sup>-semester student** pursuing **Computer Science** at **PW IOI**.I know termux so I don't get errors(I mean to say 98% times if I know the syntax)
 
