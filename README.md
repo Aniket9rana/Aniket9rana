@@ -5,7 +5,7 @@ Username: Aniket9rana
 
 # 👋 Hello Coders, I'm **Aniket Rana**
 
-🎯 **Full Stack Developer | Motion Graphics Designer | Video Editor | Data Scientist**  
+🎯 **Full Stack Developer | Motion Graphics Designer | Video Editor | Data Scientist | Prompt Engineering | AI Artist**  
 📍 Bengaluru, Karnataka, India  
 
 ---
@@ -23,6 +23,8 @@ I specialize in:
 - Creating **motion graphics & branding content**
 - Developing **AI tools & automation systems**
 - Game development using **Unreal Engine 5**
+- Prompt Engineering**
+- Creating stunning visuals 
 
 ---
 
